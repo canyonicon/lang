@@ -878,7 +878,7 @@ body #translation_buttons {
         margin: 0;
     }
     body {
-        overflow-y: none;
+        overflow-y: auto;
     }
     .wrapper {
         padding: 20px 0;
@@ -961,3 +961,4 @@ body #translation_buttons {
     }
 
 }
+
