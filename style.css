@@ -451,7 +451,7 @@ body .target-text {
 
 .lang-option {
   user-select: none;
-  padding: 10px 16px;
+  padding: 16px 16px;
   padding-left: 40px;
   cursor: pointer;
   display: flex;
@@ -961,4 +961,5 @@ body #translation_buttons {
     }
 
 }
+
 
