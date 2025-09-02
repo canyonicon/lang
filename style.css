@@ -877,7 +877,9 @@ body #translation_buttons {
         height: 100%;
         margin: 0;
     }
-    
+    body {
+        overflow-y: none;
+    }
     .wrapper {
         padding: 20px 0;
         padding-top: 10px;
@@ -957,4 +959,5 @@ body #translation_buttons {
     body .char-counter {
       /* font-size: 14px; */
     }
+
 }
